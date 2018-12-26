@@ -2,9 +2,9 @@
 title       : Week 3 Assignment 
 subtitle    : R Markdown Presentation & Plotly
 author      : Sherifat Akintunde-Shitu
-date        : 25 December 2018
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+date        : 
+job         : 25 December 2018
+framework   : io2012       # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -19,6 +19,6 @@ knit        : slidify::knit2slides
 
 
 
-<iframe src="demo.html" style="position:absolute;height:80%;width:80%"></iframe>
+<iframe src="demo.html" style="position:absolute;height:100%;width:100%"></iframe>
 
 
